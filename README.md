@@ -1,5 +1,4 @@
-# WARNING
-This version of SAxVCxLC and the installation are still work-in-progress. Some things do not work yet.
+# San Andreas++
 ------------------
 Contents
  * Authors, Credits/Special Thanks
@@ -11,6 +10,9 @@ Contents
    - Updating files during development
  * TROUBLESHOOTING, ERRORS, FAQs
  * Mods for SAxVCxLC (specifically adjusted)
+
+# San Andreas++
+Using content of other authors (SAxVCxLC included) to mix them together in barely canonical way. This modification was a concept of mix three cities together in canonical way as Rockstar was able to do with San Andreas development. Because for example they already had the full Liberty City map build in the Introduction movie, and we have a lot of references on other cities inside the story plot. It would be good to restore a pre-release content and keep San Andreas in Rockstar's developer mind to not move away from the main (San Andreas) style and design, but adding a new ideas to this.
 
 # SAxVCxLC
 Adds the GTA Vice City and Liberty City maps into GTA San Andreas. GTA SA remains fully playable and modable: mods for SA work also with SAxVCxLC. SAxVCxLC is clean basis for modding by external mods.
